@@ -1,3 +1,6 @@
 *.txt
 i.php
 t.net
+
+
+!spl.txt
